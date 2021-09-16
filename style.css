@@ -1,0 +1,160 @@
+header {
+    margin: 0;
+    padding: 5px;
+    background-color: antiquewhite;
+    font-style: italic;
+
+}
+
+.nav-enlace {
+    display: inline-block;
+    background: chocolate;
+    color: #fff;
+    padding: 0.5px 20px;
+    text-decoration: none;
+
+}
+
+.nav-enlace:hover {
+
+    background: coral;
+}
+
+nav img {
+    width: 130px;
+    height: 130px;
+}
+
+nav {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+h2 {
+
+    background-color: burlywood;
+    margin: 0;
+}
+
+h3 {
+
+    text-align: center;
+}
+
+img {
+    width: 375px;
+    height: 375px;
+    float: left;
+    margin: 28px;
+}
+
+img.derecha {
+    float: right;
+
+}
+
+p {
+    text-align: justify;
+}
+
+iframe {
+
+    width: 800px;
+    height: 400px;
+}
+
+footer {
+    position: absolute;
+    line-height: 30px;
+    text-align: center;
+    width: 100%;
+
+}
+
+/*Museos de Antioquia*/
+
+.navegacion {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+   
+}
+.navegacion ul {
+    list-style: none;
+    margin: 5px;
+    padding: 0;
+    
+}
+.navegacion ul li {
+    display: inline-block;
+   
+}
+.navegacion ul li a {
+    color: black;
+    display: block;
+    padding: 10px 40px;
+    display: block;
+    text-decoration: none;
+}
+
+.navegacion ul li a:hover {
+background-color: rgba(201, 165, 67, 0.774);
+
+} 
+
+
+
+div {
+    height: 450px;
+    padding: 10px 15px 50px 15px;
+    margin: auto;
+    margin: 16px;
+    border: red 2em solid;
+    background-color: #fff;
+
+}
+
+.div {
+    height: 450px;
+    padding: 10px 15px 50px 15px;
+    margin: auto;
+    border: #ffa500 2em solid;
+    background-color: #fff;
+
+}
+
+div.p {
+    padding: 10px 30px 20px 10px;
+    background-color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#header2 {
+    padding: 100px;
+    background-color: rgb(54, 183, 206)
+}
+
+.imagenes2 {
+    background-color: red;
+    width: 420px;
+    height: 420px;
+    float: left;
+    border: orange 15px solid;
+    padding: 10px;
+    margin-left: auto;
+
+}
+
+.imagenes {
+    background-color: orange;
+    width: 420px;
+    height: 420px;
+    float: left;
+    border: red 15px solid;
+    padding: 10px;
+    margin-left: auto;
+
+}
